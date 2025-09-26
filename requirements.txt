@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+requests
+slack-sdk  # A more robust client than raw requests, but we'll stick to requests to match your script
+chromadb
+sentence-transformers
+torch
+torchvision
+torchaudio
+openai
+google-generativeai
